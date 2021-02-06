@@ -1,7 +1,7 @@
-/ ************************************************ ******************* /
-/ * Demonstration of embedding executable macros in WinWord 6/7 files * /
-/ * (c) Constantin E. Climentieff aka DrMad, Samara 1998-2001 * /
-/ ************************************************ ******************* /
+// ************************************************ ******************* /
+// * Demonstration of embedding executable macros in WinWord 6/7 files * /
+// * (c) Constantin E. Climentieff aka DrMad, Samara 1998-2001 * /
+// ************************************************ ******************* /
 #include <stdio.h>
 #include <string.h>
 #include <fcntl.h>
